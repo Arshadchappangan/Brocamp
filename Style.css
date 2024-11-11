@@ -16,7 +16,6 @@ body{
     margin-left: 3%;
     margin-top: 20px;
     float: left;
-    display: inline-block;
     position: fixed;
     z-index: 2;
 }
